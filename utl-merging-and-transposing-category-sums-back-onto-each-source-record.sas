@@ -14,7 +14,7 @@ Merging and transposing category sums back onto each source record
     1     1      F    22    75   22+53    79   46+33
     1     1      F    53    75            79
     1     1      M    46    75            79
-    1     1      M    33    75            96
+    1     1      M    33    75            79
 
 
 Given 20 million observations and 1,900 combinations of ID x Year,
