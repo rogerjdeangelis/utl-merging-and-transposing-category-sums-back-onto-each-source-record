@@ -10,7 +10,7 @@ Merging and transposing category sums back onto each source record
 
   OUTPUT
 
-   ID   YEAR    SEX  PAY   PAY_F        PAY_F
+   ID   YEAR    SEX  PAY   PAY_F        PAY_M
     1     1      F    22    75   22+53    79   46+33
     1     1      F    53    75            79
     1     1      M    46    75            79
